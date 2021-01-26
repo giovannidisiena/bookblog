@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: Giovanni Di Siena - Book Blog
+email: giodisiena@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Physics student from the University of Bath. Blockchain enthusiast, software engineer (debtable) and professional crowdsurfer \m/
+twitter_username: gio_di_siena
+github_username:  giovannidisiena
+# theme: jekyll-theme-minimal
+theme: minima
+kramdown:
+  input: GFM

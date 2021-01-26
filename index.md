@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+I was going to write a bunch of insight... and then I realised I cba!
+  If you trust my judgement then take your pick from below and enjoy making the
+  discoveries for yourself :)
 
-You can use the [editor on GitHub](https://github.com/giovannidisiena/bookblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  - [x] Harari, *Sapiens*
+  - [x] Harari, *Homo Deus*
+  - [x] Harari, *21 Lessons For The 21st Century*
+  - [x] Taleb, *Fooled by Randomness (Incerto)*
+  - [x] Taleb, *The Black Swan (Incerto)*
+  - [x] Taleb, *The Bed of Procrustes (Incerto)*
+  - [ ] Taleb, *Antifragile (Incerto)*
+  - [ ] Taleb, *Skin in the Game (Incerto)*
+  - [x] Sinek, *Start With Why*
+  - [x] Sinek, *Leaders Eat Last*
+  - [x] Graeber, *Bullshit Jobs*
+  - [ ] Graeber, *The Utopia of Rules*
+  - [x] Thiel, *Zero to One*
+  - [x] Bostrom, *Superintelligence*
+  - [x] Feynman, *Surely You're Joking, Mr. Feynman!*
+  - [x] Altman, *How to Start a Startup*
+  - [x] Kiyosaki, *Rich Dad, Poor Dad*
+  - [x] Hof, *Wim Hof Method*
+  - [x] Wade, *Amazing Surf Stories*
+  - [x] Russo, *The Infinite Machine*
+  - [x] CoinGecko, *How To DeFi*
+  - [ ] Farmelo, *The Strangest Man*
+  - [ ] Rutherford, *The Book of Humans*
+  - [ ] Huxley, *Brave New World*
+  - [ ] Orwell, *1984*
+  - [ ] Kahneman, *Thinking, Fast and Slow*
+  - [ ] Haidt, *The Righteous Mind*
+  - [ ] Hofstadter, *Gödel, Escher, Bach*
+  - [ ] Gordon, *Structures: Or Why Things Don’t Fall Down*
+  - [ ] Barrat, *Our Final Invention*
+  - [ ] Tolkien, *The Lord of The Rings*
+  - [ ] Moore, *Crossing the Chasm*
+  - [ ] Christensen, *The Innovator’s Dilemma*
+  - [ ] Adler, *Behind the Cloud*
+  - [ ] Kim, *The Phoenix Project*
+  - [ ] Kim, *The Unicorn Project*
+  - [ ] Sutherland, [*Agile Manifesto*](https://www.atlassian.com/agile/manifesto)
+  - [ ] Rasmusson, *The Agile Samurai: How Agile Masters Deliver Great Software*
+  - [ ] Berne, *Games People Play*
+  - [ ] Booth, *The Price of Tomorrow*
+  - [ ] Schwartz, *The Magic of Thinking Big*
+  - [ ] Horowitz, *The Hard Thing About Hard Things*
+  - [ ] Kay, *This is Going to Hurt*
+  - [ ] Davidson, *The Sovereign Individual*
+  - [ ] Mezrich, *Bringing Down the House*
+  - [ ] Bazzell, *Extreme Privacy: What It Takes to Disappear*
+  - [ ] Clear, *Atomic Habits*
+  - [ ] Perkins, *Die With Zero*
+  - [ ] Chiang, [*Understand*](https://archive.org/details/TedChiangUnderstand)
+  - [ ] Graham, [*Essays*](http://www.paulgraham.com/articles.html)
+  - [ ] Urban, [*Elon Musk: The World’s Raddest Man*](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html)
+  - [x] Mincu, [*beniaminmincu.com*](https://www.beniaminmincu.com)
+  - [x] Nakamoto, [*Bitcoin: A Peer-to-Peer Electronic Cash System*](https://bitcoin.org/bitcoin.pdf)
+  - [ ] Buterin, [*vitalik.ca*](https://vitalik.ca)
+  - [ ] Buterin, [*Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform*](https://ethereum.org/en/whitepaper/)
+  - [ ] Wood, [*Ethereum Yellow Paper*](https://github.com/ethereum/yellowpaper)
+  - [x] Robinson, [*Ethereum is a Dark Forest*](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
+  - [x] Sun, [*Escaping the Dark Forest*](https://samczsun.com/escaping-the-dark-forest/amp/?__twitter_impression=true)
+  - [ ] Antonopoulos, [*Mastering Bitcoin: Unlocking Digital Cryptocurrencies*](https://github.com/bitcoinbook/bitcoinbook)
+  - [ ] Antonopoulos, [*Mastering Ethereum: Building Smart Contracts and DApps*](https://github.com/ethereumbook/ethereumbook)
+  - [ ] Zhang et al., [*Formal Specification of Constant Product Market Maker Model and Implementation*](https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf)
+  - [ ] Adams, [*Uniswap V1 Whitepaper*](https://hackmd.io/@HaydenAdams/HJ9jLsfTz#🦄-Uniswap-Whitepaper)
+  - [ ] Adams et al., [*Uniswap V2 Whitepaper*](https://uniswap.org/whitepaper.pdf)
+  - [ ] Daian et al., [*Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges*](https://arxiv.org/pdf/1904.05234.pdf)
+  - [ ] Yago et al., [*SOVRYN: A Fullstack Financial Operating System*](https://docsend.com/view/mbhvi379crhagtwp)
+  - [ ] M&ouml;ser et al., [*Bitcoin Covenants*](http://fc16.ifca.ai/bitcoin/papers/MES16.pdf)
+  - [ ] C4, [*CryptoCurrency Security Standard (CCSS)*](https://cryptoconsortium.github.io/CCSS/)
+{: style='list-style-type: none'}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giovannidisiena/bookblog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+{% include twitter_plug.html %}
