@@ -66,7 +66,7 @@ I was going to write a bunch of insight... and then I realised I cba!
   - [ ] Adams, [*Uniswap V1 Whitepaper*](https://hackmd.io/@HaydenAdams/HJ9jLsfTz#🦄-Uniswap-Whitepaper)
   - [ ] Adams et al., [*Uniswap V2 Whitepaper*](https://uniswap.org/whitepaper.pdf)
   - [ ] Daian et al., [*Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges*](https://arxiv.org/pdf/1904.05234.pdf)
-  - [ ] Yago et al., [*SOVRYN: A Fullstack Financial Operating System*](https://docsend.com/view/mbhvi379crhagtwp)
+  - [x] Yago et al., [*SOVRYN: A Fullstack Financial Operating System*](https://docsend.com/view/mbhvi379crhagtwp)
   - [ ] M&ouml;ser et al., [*Bitcoin Covenants*](http://fc16.ifca.ai/bitcoin/papers/MES16.pdf)
   - [ ] C4, [*CryptoCurrency Security Standard (CCSS)*](https://cryptoconsortium.github.io/CCSS/)
   - [ ] Atzori, [*Blockchain Technology and Decentralized Governance: Is the State Still Necessary?*](http://nzz-files-prod.s3-website-eu-west-1.amazonaws.com/files/9/3/1/blockchain+Is+the+State+Still+Necessary_1.18689931.pdf)
